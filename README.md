@@ -1,5 +1,5 @@
 # Kodluyoruz İlk Repo
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) GIT eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, 1 adet de index.html barınıyor.
+Bu repo [Patika](www.patika.dev) GIT eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, 1 adet de index.html barınıyor.
 
 # Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
