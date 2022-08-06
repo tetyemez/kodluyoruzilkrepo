@@ -1,5 +1,5 @@
 # Kodluyoruz İlk Repo
-Bu repo [Patika](www.patika.dev) GIT eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, 1 adet de index.html barınıyor.
+Bu repo [Patika](https://www.patika.dev/) GIT eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, 1 adet de index.html barınıyor.
 
 # Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
@@ -23,7 +23,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 License
 
-[MIT](choosealicense.com)
+[MIT](http://www.choosealicence.com)
 
 
 ![kodluyoruz](https://imgs.search.brave.com/lPPlyqphAf05eILFuMd2f5bKFy3NzPWtH5lhMpteRpM/rs:fit:400:400:1/g:ce/aHR0cHM6Ly9hdmF0/YXJzMi5naXRodWJ1/c2VyY29udGVudC5j/b20vdS8zMDQ3NjUy/OT9zPTQwMCZ2PTQ)
